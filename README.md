@@ -10,4 +10,4 @@ This iso image was made by doing the following steps:<br>
 > I still haven't made the iso image yet.
 
 > [!NOTE]
-> I do not reccommend this iso image for slow computers, it is mostly for hardening, privacy, security, and speed.
+> I do not recommend this iso image for slow computers, it is mostly for hardening, privacy, security, and speed.
